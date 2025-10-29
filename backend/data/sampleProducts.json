@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "product": "Apple AirPods Pro 2",
+      "prices": [
+        {
+          "date": "2025-09-01",
+          "price": 24999
+        }
+      ],
+      "rating": 4.6,
+      "specScore": 9
+    },
+    {
+      "product": "Samsung Galaxy S25 Ultra",
+      "prices": [
+        {
+          "date": "2025-09-01",
+          "price": 124999
+        }
+      ],
+      "rating": 4.5,
+      "specScore": 9.4
+    },
+    {
+      "product": "OnePlus 13",
+      "prices": [
+        {
+          "date": "2025-09-01",
+          "price": 69999
+        }
+      ],
+      "rating": 4.4,
+      "specScore": 8.9
+    },
+    {
+      "product": "Sony WH-1000XM6",
+      "prices": [
+        {
+          "date": "2025-09-01",
+          "price": 29999
+        }
+      ],
+      "rating": 4.7,
+      "specScore": 9.1
+    },
+    {
+      "product": "MacBook Air M4 (2025)",
+      "prices": [
+        {
+          "date": "2025-09-01",
+          "price": 124999
+        }
+      ],
+      "rating": 4.8,
+      "specScore": 9.3
+    },
+    {
+      "product": "Nike Air Zoom Pegasus 41",
+      "prices": [
+        {
+          "date": "2025-09-01",
+          "price": 9999
+        }
+      ],
+      "rating": 4.5,
+      "specScore": 8.1
+    },
+    {
+      "product": "LG OLED C4 55-inch TV",
+      "prices": [
+        {
+          "date": "2025-09-01",
+          "price": 149999
+        }
+      ],
+      "rating": 4.8,
+      "specScore": 9.2
+    },
+    {
+      "product": "Bose SoundLink Revolve+ II",
+      "prices": [
+        {
+          "date": "2025-09-01",
+          "price": 24999
+        }
+      ],
+      "rating": 4.6,
+      "specScore": 8.7
+    },
+    {
+      "product": "Fossil Gen 7 Smartwatch",
+      "prices": [
+        {
+          "date": "2025-09-01",
+          "price": 17999
+        }
+      ],
+      "rating": 4.3,
+      "specScore": 8.4
+    },
+    {
+      "product": "Sony PlayStation 5",
+      "prices": [
+        {
+          "date": "2025-09-01",
+          "price": 49999
+        }
+      ],
+      "rating": 4.9,
+      "specScore": 9.0
+    }
+  ]
+}
