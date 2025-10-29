@@ -1,1 +1,0 @@
-console.log("✅ PriceSense project setup complete!");
